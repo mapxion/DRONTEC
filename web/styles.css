@@ -12,3 +12,13 @@
 /* Logo original Drontec */
 .brand{display:block}.brand>img{width:220px;height:60px;object-fit:cover;max-width:none}.brand small{margin-top:0;text-align:center;letter-spacing:2px}.header-inner{min-height:100px}.footer-inner .brand>img{width:190px;height:52px}
 @media(max-width:520px){.brand>img{width:185px;height:51px}.brand small{font-size:.58rem}.header-inner{min-height:88px}}
+
+/* Resultados de fotogrametría: mostrar las imágenes completas, sin recortar escalas */
+img.technical-output{object-fit:contain;background:#fff}.choice-image:has(.technical-output){background:#fff}.choice-image>img.technical-output{object-fit:contain;background:#261f1c}.story-grid img.technical-output{object-fit:contain;background:#fff}.photogrammetry-page .hero-visual{background:#261f1c}.photogrammetry-page .hero-visual>img.technical-output{background:#261f1c}.output-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:28px}.output-example{margin:0;border:1px solid var(--line);border-radius:6px;overflow:hidden;background:white}.output-example>a{display:block;position:relative;background:var(--pale)}.output-example img{width:100%;height:340px;object-fit:contain;background:#fff}.enlarge-hint{position:absolute;bottom:14px;right:14px;font-size:.72rem;background:#fff;padding:7px 12px;border-radius:3px;color:var(--blue);box-shadow:0 2px 8px #0001}.output-example figcaption{padding:24px 28px}.output-example h3{font-size:1.4rem;margin-bottom:9px}.output-example p{color:var(--muted);font-size:.95rem;margin-bottom:0}
+@media(max-width:800px){.output-example img{height:260px}.output-grid{gap:20px}.output-example figcaption{padding:22px}}
+@media(max-width:520px){.output-grid{grid-template-columns:1fr}.output-example img{height:auto;max-height:360px}}
+
+/* Capturas de inspección: conservar los modelos y los textos completos */
+.inspection-output{object-fit:contain!important;background:#101820}.inspection-page .hero-visual{height:auto;min-height:300px;background:#101820;display:flex;align-items:center}.inspection-page .hero-visual:after{display:none}.inspection-hero-image{width:100%;display:block}.inspection-hero-image>img{width:100%;height:auto;display:block}.inspection-example>a,.inspection-example img{background:#101820}.inspection-example img{height:360px}.inspection-page .results-layout>img.inspection-output{background:#101820}.choice-image>img.inspection-output,.story-grid img.inspection-output{width:100%;height:100%}
+@media(max-width:800px){.inspection-example img{height:300px}.inspection-page .hero-visual{min-height:0}}
+@media(max-width:520px){.inspection-example img{height:auto;max-height:420px}.inspection-page .hero-visual{height:auto}}

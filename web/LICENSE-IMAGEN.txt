@@ -30,3 +30,7 @@ La imagen adaptada se distribuye bajo la misma licencia.
 
 Las fotografías son ilustrativas y no se presentan como trabajos de Drontec.
 Las licencias de las imágenes no afectan al código de la web.
+
+Imágenes de fotogrametría: curvas_peq.jpg, mde_peq.jpg, mdetif_peq.jpg y orto_peq.jpg, facilitadas por el usuario para su incorporación en Drontec. Copiadas sin modificar sus píxeles. No se les asigna una licencia de terceros.
+
+Capturas de inspección TAMS y mapa: seis imágenes facilitadas por el usuario para Drontec. Versiones WebP optimizadas y redimensionadas, sin alterar el contenido. No se les asigna licencia de terceros. Los archivos PNG originales se conservan sin cambios fuera del paquete.

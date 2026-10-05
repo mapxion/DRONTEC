@@ -20,3 +20,7 @@ El contacto utiliza el teléfono ya indicado, porque el correo del hosting anter
 No se ha publicado esta versión automáticamente.
 
 La cabecera y el pie de las tres páginas utilizan el logo original facilitado por el usuario, en web/assets/logo-drontec.webp.
+
+Fotogrametría incorpora las cuatro imágenes facilitadas por el usuario. Se muestran completas y se pueden ampliar. La portada utiliza la ortofoto y el modelo de elevaciones.
+
+Inspección incorpora las seis capturas facilitadas: vuelo, ficha de estación, inventario, estructura, visor y mapa. Versiones WebP hasta 1920 píxeles y miniaturas hasta 960 píxeles; ampliación por enlace.
