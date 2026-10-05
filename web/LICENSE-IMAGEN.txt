@@ -6,3 +6,27 @@ Licencia: Creative Commons Attribution-ShareAlike 2.0 Generic
 https://creativecommons.org/licenses/by-sa/2.0/
 Cambios: redimensionado a 1500 x 994 píxeles; compresión JPEG y recorte de presentación mediante CSS.
 La imagen adaptada se distribuye bajo CC BY-SA 2.0. Esta licencia afecta a la imagen, no al código de la web.
+
+
+torre.jpg
+Autor: Wikideas1. Cell tower aerial.
+Fuente: https://commons.wikimedia.org/wiki/File:Cell_tower_aerial.jpg
+Licencia: CC0 1.0. https://creativecommons.org/publicdomain/zero/1.0/
+Cambios: redimensionado, compresión JPEG y recorte CSS.
+
+antenas.jpg
+Autor: Bidgee. Parabolic antennas on a telecommunications tower on Willans Hill.
+Fuente: https://commons.wikimedia.org/wiki/File:Parabolic_antennas_on_a_telecommunications_tower_on_Willans_Hill.jpg
+Licencia: CC BY-SA 2.5 Australia. https://creativecommons.org/licenses/by-sa/2.5/au/
+Cambios: redimensionado a 1600 x 1064, compresión JPEG y recorte CSS.
+La imagen adaptada se distribuye bajo la misma licencia.
+
+terreno.jpg
+Autor: kallerna. Torredelcampo aerial.
+Fuente: https://commons.wikimedia.org/wiki/File:Torredelcampo_aerial.jpg
+Licencia: CC BY-SA 4.0. https://creativecommons.org/licenses/by-sa/4.0/
+Cambios: redimensionado a 1600 x 1067, compresión JPEG y recorte CSS.
+La imagen adaptada se distribuye bajo la misma licencia.
+
+Las fotografías son ilustrativas y no se presentan como trabajos de Drontec.
+Las licencias de las imágenes no afectan al código de la web.
