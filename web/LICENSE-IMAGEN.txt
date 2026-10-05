@@ -1,0 +1,8 @@
+portada.jpg
+Autor: Tim Hoggarth
+Obra original: DJI Inspire (20639952511)
+Fuente: https://commons.wikimedia.org/wiki/File:DJI_Inspire_(20639952511).jpg
+Licencia: Creative Commons Attribution-ShareAlike 2.0 Generic
+https://creativecommons.org/licenses/by-sa/2.0/
+Cambios: redimensionado a 1500 x 994 píxeles; compresión JPEG y recorte de presentación mediante CSS.
+La imagen adaptada se distribuye bajo CC BY-SA 2.0. Esta licencia afecta a la imagen, no al código de la web.
